@@ -14,3 +14,4 @@ Commit Message must be "Name Surname was here."
 
 -----------
 1. **Yusuf Düzgün** 12.12.2022 Ankara - Pardus 21 XFCE<br>Es deli rüzgar yiğidin bağrına bağrına.<br>
+1. **Fatih Altun** 12.12.2022 Ankara - Pardus 21 XFCE<br>Özgürlük için Pardus!<br>
